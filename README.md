@@ -14,8 +14,8 @@ A UNIX shell script that intakes a file with multiple video links and creates pl
 - Make sure that you have python installed
 
 # Changelog
-- 1.3.2 - Resolved issue where if there was no file in the input folder it would still execute.
-- 1.3.1 - Resolved issue where sometimes when the output folder was created it would not save the lists.
-- 1.3.0 - Minified splitjoin.py, increasing efficency.
-- 1.2.0 - Restuctured the placeholder file inside the input folder so it would not cause complications with main.sh's "grep".
+- 1.3.2 - Resolved an issue where if there was no file in the input folder it would still execute.
+- 1.3.1 - Resolved an issue where sometimes when the output folder was created it would not save the lists.
+- 1.3.0 - Minified splitjoin.py, increasing efficiency.
+- 1.2.0 - Restructured the placeholder file inside the input folder so it would not cause complications with main.sh's "grep".
 - 1.1.0 - Added execution timer into main.sh.
