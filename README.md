@@ -13,7 +13,7 @@ A UNIX shell script that intakes a file with multiple video links and creates pl
 - Links can either be normal (i.e. "https://www.youtube.com/") or shortend (i.e. "https://youtu.be/")
 - Make sure that you have python installed
 
-#Changelog
+# Changelog
 1.3.2 - Resolved issue where if there was no file in the input folder it would still execute.
 1.3.1 - Resolved issue where sometimes when the output folder was created it would not save the lists.
 1.3.0 - Minified splitjoin.py, increasing efficency.
