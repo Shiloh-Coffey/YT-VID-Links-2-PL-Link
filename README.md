@@ -1,4 +1,4 @@
-# YT-VID-Links-2-PL-Link v1.3.2
+# YT-VID-Links-2-PL-Link v.1.3.2
 A UNIX shell script that intakes a file with multiple video links and creates playlist links.
 
 # Instructions
