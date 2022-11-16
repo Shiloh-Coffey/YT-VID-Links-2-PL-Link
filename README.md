@@ -3,7 +3,6 @@ A UNIX shell script that intakes a file with multiple video links and creates pl
 
 # Instructions
 - Download the repo.
-- Delete placeholder.txt.
 - Enter a .txt file, the name of the file is not important, with YouTube links, seperated by line, into the "input" folder and run the shell script.
 - The playlist links will be geneterated in a folder named "output".
 
